@@ -1,5 +1,5 @@
 #code pyton:
-Matriks A dan B yang sudah ditentukan
+#Matriks A dan B yang sudah ditentukan
 Orde_A = [[1, 2, 3],
           [4, 5, 6],
           [7, 8, 9]]
